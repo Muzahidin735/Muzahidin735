@@ -48,7 +48,7 @@ I'm a **final-year computer science student** passionate about **Data Structures
 
 ## 🔗 Connect With Me
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/muzahidin](#)
-- 🐦 **LeetCode**: [@YourHandle](#)
+-  🏆 **LeetCode**: [https://leetcode.com/u/Muzahidin](#)
 - 📧 **Email**: [muzahid0735@gmail.com](#)
 
 ---
